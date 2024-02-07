@@ -1,4 +1,4 @@
-[![MasterHead](https://stock.adobe.com/in/images/panorama-of-a-galaxy-planets-and-stars-in-space-banner-design-many-light-years-away-there-are-many-galaxies-and-nebulas-in-space-a-vast-universe-a-substantial-structure-generative-ai/559133954)](https://github.com/Ashn20)
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/05/59/13/39/1000_F_559133954_0kKDwhaWzU2ltOH4ylCkP1B4f7N6XkPD.jpg)](https://github.com/Ashn20)
 
 <h1 align="center">Hi 👋, I'm Ashwin T</h1>
 <h3 align="center">A Fresher graduated in Computer Science with a fervent enthusiasm , seeking for a position in Software Developement or Web Developement 🌐💻</h3>
