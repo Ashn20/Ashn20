@@ -1,4 +1,4 @@
-[![MasterHead](https://komarev.com/ghpvc/?username=ashn20&label=Profile%20views&color=0e75b6&style=flat](https://github.com/Ashn20)
+[![MasterHead](](https://github.com/Ashn20)
 
 <h1 align="center">Hi 👋, I'm Ashwin T</h1>
 <h3 align="center">A Fresher graduated in Computer Science with a fervent enthusiasm , seeking for a position in Software Developement or Web Developement 🌐💻</h3>
